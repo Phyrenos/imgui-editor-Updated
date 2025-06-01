@@ -12,7 +12,7 @@
 
 Thanks to https://github.com/pers0na2dev/imgui-editor - Ive decided i want to update it a bit more, add more options
 <br></br>
-I've been planning on adding more options to it such as buttons, Children, Graphs. ETC ETC
+I've been planning on adding more options to it such as buttons, Children, Graphs, Images. ETC ETC
 <br></br>
 Dont expect this to be updated constantly since i've got irl stuff to do aswell
 ---
