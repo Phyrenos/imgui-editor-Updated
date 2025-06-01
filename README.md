@@ -4,13 +4,6 @@
 <a href="https://Phyrenos/imgui-editor-Updated">
     <img width="100%" src=".github/images/logo.svg" alt="@Phyrenos/imgui-editor-Updated's logo">
 </a>
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![Pull Requests][pull-requests-shield]][pull-requests-url]
 </div>
 
 ---
