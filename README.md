@@ -1,8 +1,8 @@
-# 🔥 **kaazedev/imgui-editor**
+# 🔥 **Phyrenos/imgui-editor-Updated**
 
 <div align="center">
-<a href="https://github.com/kaazedev/imgui-editor">
-    <img width="100%" src=".github/images/logo.svg" alt="@kaazedev/imgui-editor's logo">
+<a href="https://Phyrenos/imgui-editor-Updated">
+    <img width="100%" src=".github/images/logo.svg" alt="@Phyrenos/imgui-editor-Updated's logo">
 </a>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -17,10 +17,11 @@
 
 ## 🤔 **About the project**
 
-No-code UI creating software for ImGui. Create an interface for your application with the convenience of Figma and the functionality of Photoshop.
-<br /><br />
-The project is developing quite slowly due to my busy schedule in real life, so I decided it was worth opening it up to other developers.
-
+Thanks to https://github.com/pers0na2dev/imgui-editor - Ive decided i want to update it a bit more, add more options
+<br></br>
+I've been planning on adding more options to it such as buttons, Children, Graphs. ETC ETC
+<br></br>
+Dont expect this to be updated constantly since i've got irl stuff to do aswell
 ---
 
 ## ⚡ **Compiling**
@@ -77,14 +78,9 @@ To build an .exe file:
 go build -o codegen.exe
 ```
 
-## 🎉 Was the Project helpful? Help us raise these numbers up
+## 🎉 Was the Project helpful?
 
-[![GitHub followers](https://img.shields.io/github/followers/kaazedev.svg?style=social)](https://github.com/kaazedev)
-[![GitHub stars](https://img.shields.io/github/stars/kaazedev/imgui-editor.svg?style=social)](https://github.com/kaazedev/imgui-editor/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/kaazedev/imgui-editor.svg?style=social)](https://github.com/kaazedev/imgui-editor/watchers)
-[![GitHub forks](https://img.shields.io/github/forks/kaazedev/imgui-editor.svg?style=social)](https://github.com/kaazedev/imgui-editor/network/members)
-
-<a href="https://star-history.com/#kaazedev/imgui-editor&Timeline"><img src="https://api.star-history.com/svg?repos=kaazedev/imgui-editor&type=Timeline" alt="Star History Chart" height="386"></a>
+<a href="https://star-history.com/#Phyrenos/imgui-editor-Updated&Timeline"><img src="https://api.star-history.com/svg?repos=Phyrenos/imgui-editor-Updated&type=Timeline" alt="Star History Chart" height="386"></a>
 
 Enjoy! 😃
 
@@ -103,19 +99,3 @@ See the license in the '**[LICENSE](LICENSE)**' file.
 Watch the changes in the '**[CHANGELOG.md](CHANGELOG.md)**' file.
 
 ---
-
-_Made with a lot of ❤️❤️ by **[@kaazedev](https://github.com/kaazedev)**_
-
-[contributors-shield]: https://img.shields.io/github/contributors/kaazedev/imgui-editor.svg?style=for-the-badge
-[contributors-url]: https://github.com/kaazedev/imgui-editor/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kaazedev/imgui-editor.svg?style=for-the-badge
-[forks-url]: https://github.com/kaazedev/imgui-editor/network/members
-[stars-shield]: https://img.shields.io/github/stars/kaazedev/imgui-editor.svg?style=for-the-badge
-[stars-url]: https://github.com/kaazedev/imgui-editor/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kaazedev/imgui-editor.svg?style=for-the-badge
-[issues-url]: https://github.com/kaazedev/imgui-editor/issues
-[license-shield]: https://img.shields.io/github/license/kaazedev/imgui-editor.svg?style=for-the-badge
-[license-url]: https://github.com/kaazedev/imgui-editor/blob/master/LICENSE
-[pull-requests-shield]: https://img.shields.io/github/issues-pr/kaazedev/imgui-editor.svg?style=for-the-badge
-[pull-requests-url]: https://github.com/kaazedev/imgui-editor/pulls
-[product-screenshot]: .github/images/preview.png
