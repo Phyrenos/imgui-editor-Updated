@@ -46,8 +46,9 @@ void modalManager::Instance()
 				pos + windowSize / 2 + m_v2Size / 2 + ImVec2(15, 15)
 			) && ImGui::IsMouseClicked(0) && !ImGui::IsPopupOpen("", ImGuiPopupFlags_AnyPopupId))
 				m_bShow = false;
+			ImGui::EndChild();
 		}
 		ImGui::End();
 	}
-	ImGui::End();
+	
 }
